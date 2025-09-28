@@ -4,15 +4,15 @@
 
 Learn How to BRIDGE Your Career To AI. We'll hold you by the hand to prove to yourself that you can switch your career to AI.
 
-## Secret #1
+#### Secret #1
 
 The quickest way to switch to AI is REVERSE LEARNING:​ Stop learning AI, learn the AI that is useful for companies TODAY.
 
-## Secret #2
+#### Secret #2
 
 The quickest way to switch to AI is PRACTICAL LEARNING: Creating an useful AI project is EASIER than you think.
 
-## Secret #3
+#### Secret #3
 
 The quickest way to switch to AI is FOLLOW A GUIDE:​ ​Get mentorship from a person who is where YOU WANT TO BE.
 
